@@ -1,0 +1,36 @@
+body {
+    background-color: #E1E8ED; /* Twitter background color */
+}
+.navbar {
+    background-color: #1DA1F2; /* Twitter primary color */
+}
+.navbar-brand, .navbar-text, .nav-link {
+    color: #FFFFFF !important; /* White color for text */
+}
+.card {
+    border: 1px solid #AAB8C2; /* Twitter border color */
+}
+.like-btn.liked {
+    background-color: #5d89cf; /* Twitter like color */
+    border-color: #4e6adc;
+    color: #FFFFFF;
+}
+.like-btn {
+    color: #1DA1F2; /* Twitter primary color for like button */
+}
+.like-btn:hover {
+    background-color: #5279ece0; /* Twitter hover color for like button */
+    color: #57b4d6c9; /* White color on hover */
+}
+.btn-primary {
+    background-color: #1DA1F2;
+    border-color: #1DA1F2;
+}
+.btn-outline-success {
+    color: #1DA1F2;
+    border-color: #1DA1F2;
+}
+.btn-outline-danger {
+    color: #E0245E;
+    border-color: #E0245E;
+}
